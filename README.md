@@ -22,6 +22,11 @@ itch.io also
 When ypu extract and run it may say that it contain virus but it does not
 for demo download using this link : https://shubh-mishra.itch.io/the-last-firefly
 
+I have used AI to understand certain pygame concept and understand which function of pygame should be used.
+
+Please ignore README.txt.txt
+
+THANKYOU!!
 
 
 
