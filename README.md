@@ -27,6 +27,10 @@ I have used AI to understand certain pygame concept and understand which functio
 Please ignore README.txt.txt
 
 THANKYOU!!
+<img width="982" height="781" alt="Screenshot 2026-11-28 211434" src="https://github.com/user-attachments/assets/847c8a68-6e51-4e6f-8190-f5b6cd4f76e7" />
+<img width="1007" height="812" alt="Screenshot 2026-11-28 211418" src="https://github.com/user-attachments/assets/1f50233c-059a-492b-a9a0-2f19a8697efa" />
+<img width="991" height="782" alt="Screenshot 2026-11-28 211402" src="https://github.com/user-attachments/assets/459b3fdd-25e2-4052-a916-ac1ed5a88143" />
+
 
 
 
